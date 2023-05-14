@@ -2,7 +2,7 @@
 - :lock: Check out my [Bible Search API](https://rapidapi.com/ljdatasci/api/bible-search) on RapidAPI
 - 👀 I'm interested in building for the web.
 - 🌱 I’m currently learning Web Components and Vue
-- 💞️ I’m looking to collaborate on any projects for building web components
+- 💞️ I’m looking to collaborate on any projects that involve building web components or Vue.
 - 📫 How to reach me: joyfulnoiseforyahshua@gmail.com
 
 ## Tech Stack
