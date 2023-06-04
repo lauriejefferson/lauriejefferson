@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lauriejefferson
+- 👋🏿 Hi, I’m @lauriejefferson
 - 🔗 Check out my [Bible Search API](https://rapidapi.com/ljdatasci/api/bible-search) on RapidAPI
 - 👀 I'm interested in building for the web.
 - 🌱 I’m currently learning Web Components and Vue
