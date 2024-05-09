@@ -2,7 +2,7 @@
 - 🔗 Check out my [Bible Search API](https://rapidapi.com/joyfulnoiseforyahshua/api/bible-search) on RapidAPI
 - 👀 I'm interested in web development.
 - 🌱 I’m currently learning Web Components and Vue
-- 💞️ I’m looking to collaborate on any projects that involve building web components or Vue.
+- 💞️ I’m looking to collaborate on any projects that involve building websites using Vue or web components.
 - 📫 How to reach me: joyfulnoiseforyahshua@gmail.com
 
 ## Tech Stack
