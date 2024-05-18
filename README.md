@@ -1,8 +1,8 @@
 - 👋🏿 Hi, I’m @lauriejefferson
 - 🔗 Check out my [Bible Search API](https://rapidapi.com/joyfulnoiseforyahshua/api/bible-search) on RapidAPI
 - 👀 I'm interested in web development.
-- 🌱 I’m currently learning open web standards, Web API, Web Components and Vue
-- 💞️ I’m looking to collaborate on building websites using open web standards, Web Components or Vue.
+- 🌱 I’m currently learning "vanilla" web standards, Web API, Web Components Vue and 
+- 💞️ I’m looking to collaborate on building websites using "vanilla" web standards, Web API, Web Components or Vue.
 - 📫 How to reach me: joyfulnoiseforyahshua@gmail.com
 
 ## Tech Stack
